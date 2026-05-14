@@ -1,0 +1,11 @@
+frase,sentimento,confiança
+"Amei o atendimento, foi simplesmente impecável do começo ao fim!",positive,0.9253
+"Esse filme me fez chorar de emoção, vou lembrar dele para sempre.",positive,0.7677
+A entrega chegou rapidíssima e o produto é melhor do que eu esperava.,positive,0.8888
+O restaurante é confortável e o cardápio é razoavelmente variado.,positive,0.8108
+O voo decolou no horário previsto.,neutral,0.6797
+"Funciona como descrito na embalagem, nada de extraordinário.",neutral,0.486
+O atendimento foi tão lento que eu envelheci esperando uma resposta.,negative,0.8208
+"Produto chegou quebrado, mal embalado e ainda veio o item errado.",negative,0.8705
+"Pior experiência da minha vida, jamais volto a essa loja.",negative,0.9133
+"Achei o app travado, confuso e cheio de propagandas invasivas.",negative,0.9404

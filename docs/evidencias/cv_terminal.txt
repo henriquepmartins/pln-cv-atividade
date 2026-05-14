@@ -1,0 +1,5 @@
+Executando pipeline watershed…
+
+28 objetos detectados.
+Pipeline salvo em /Users/henriquepereiramartins/code/college/8th/ai/pln/pln-cv-atividade/cv/output/pipeline.png
+Antes/Depois salvo em /Users/henriquepereiramartins/code/college/8th/ai/pln/pln-cv-atividade/cv/output/resultado_final.png

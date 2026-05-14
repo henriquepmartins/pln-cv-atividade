@@ -1,0 +1,11 @@
+transformers>=4.40
+torch>=2.2
+sentencepiece>=0.2
+protobuf>=4.25
+tiktoken>=0.7
+matplotlib>=3.8
+pandas>=2.2
+opencv-python>=4.9
+scikit-image>=0.22
+numpy>=1.26
+jupyter>=1.0
