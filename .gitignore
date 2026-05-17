@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 *.log
 .env
+
+# notas pessoais
+APRESENTACAO.md
