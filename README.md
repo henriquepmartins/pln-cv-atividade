@@ -94,7 +94,3 @@ pip install -r requirements.txt
 python nlp/sentiment_analysis.py  # ~30s na 1ª execução (baixa modelo ~1.1GB)
 python cv/watershed_segmentation.py
 ```
-
-## Stack
-
-`transformers` · `torch` · `opencv-python` · `scikit-image` · `matplotlib` · `pandas` · `numpy` · `sentencepiece`
