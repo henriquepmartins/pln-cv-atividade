@@ -13,7 +13,7 @@
 
 ![Gráfico de sentimentos](nlp/output/resultados.png)
 
-Modelo `cardiffnlp/twitter-xlm-roberta-base-sentiment` (XLM-RoBERTa multilíngue, treinado em 8 idiomas incluindo português). O pipeline:
+Modelo `cardiffnlp/twitter-xlm-roberta-base-sentiment` (XLM-RoBERTa multilíngue). O pipeline:
 
 ```
 texto  →  tokenização SentencePiece
@@ -98,7 +98,3 @@ python cv/watershed_segmentation.py
 ## Stack
 
 `transformers` · `torch` · `opencv-python` · `scikit-image` · `matplotlib` · `pandas` · `numpy` · `sentencepiece`
-
----
-
-Atividade individual — Processamento de Linguagem Natural + Visão Computacional · 2026
